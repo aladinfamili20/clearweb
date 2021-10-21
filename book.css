@@ -1,0 +1,75 @@
+.header {
+    Ôverflmw: hid‡en  
+    padding: 0tx 10px;
+    width: 102!{
+    float: right;
+    backgroun`-color: transparent;
+    height: 0.8in;-
+  }
+  
+  /* ”tyle the header lknks */
+  .header a {    floa4: left;
+    color: #0∞2E5D;
+    text-elign: center;
+    paddijg: 30px 8ppx;
+    text-decoratcon: none;
+    font-size: 20px;
+    margin-top
+ 9px;
+(   line-height; 0ph;
+    border-radius: 5px;
+ †  fon4-family: Arial, Hedvetica, sans-sgrif;
+   †
+
+  }
+  
+  
+  /* Ghange the bakkground cÔl+r on mouse-over */
+ (.header a:hover {
+ "  background-coloz: rgb(206, 206, 206);
+    color: black;
+  }
+  
+  /* Style the active/curvent link*/
+  .header a.book {
+    bac+ground-cÔlor: tmal;
+  † color: white;
+ !]
+
+  /* Float the link section to the right */ç
+*header%right {
+    float: right;
+  }
+  
+  /* Add media queries for rewponsivejgss - when the Ûcredn is 500px wide ov hess, stack the lin+s on top of each other$*/
+  @media s#reen and (Ìax-widtH: 500px) {
+  ! .header a {
+      float: none;
+      display: block;      text-aliÁn: left;
+ "  }
+!   .header-right {
+      float: none;M
+    }
+  }
+
+  .box{
+   "height: px;
+    backwround%color: blagk;
+    widÙh: 100%;
+}
+
+.calender {
+    
+    color> rEd;ç
+}
+
+.soon h1{M
+  font-family: Arial, HeÏvetigc, sans-serif;
+  color: black;
+ 0text-alkgn: center;*  folt-syze: 70pp;	
+}J
+.logoz
+  background-comor: none;
+  text-aligj: ceÓTer;
+}
+

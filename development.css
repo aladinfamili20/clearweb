@@ -1,0 +1,50 @@
+h1 {
+  color: rgb(0, 0, 0);
+  size: 70px;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+picture img{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+  font-size: 70px;
+  text-align: center;
+}
+
+.about h2{
+  width: auto;
+  height: auto;
+  color: black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.botton{
+  background-color: #a7a7a700;
+  height: 1in;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  }
+
+  .google img{
+    height: 1in;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 240px;
+   
+  }
+
+  
